@@ -12,6 +12,7 @@
 		DAC908A220CAD6C300B2E3E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAC908A020CAD6C300B2E3E8 /* Main.storyboard */; };
 		DAC908A420CAD6C400B2E3E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAC908A320CAD6C400B2E3E8 /* Assets.xcassets */; };
 		DAC908A720CAD6C400B2E3E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAC908A520CAD6C400B2E3E8 /* LaunchScreen.storyboard */; };
+		DAF31CF120CB2BA900BFF6F3 /* InteractiveStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF31CF020CB2BA900BFF6F3 /* InteractiveStory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DAC908A320CAD6C400B2E3E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAC908A620CAD6C400B2E3E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAC908A820CAD6C400B2E3E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAF31CF020CB2BA900BFF6F3 /* InteractiveStory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractiveStory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DAC908A320CAD6C400B2E3E8 /* Assets.xcassets */,
 				DAC908A520CAD6C400B2E3E8 /* LaunchScreen.storyboard */,
 				DAC908A820CAD6C400B2E3E8 /* Info.plist */,
+				DAF31CF020CB2BA900BFF6F3 /* InteractiveStory.swift */,
 			);
 			path = InteractiveStory;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAF31CF120CB2BA900BFF6F3 /* InteractiveStory.swift in Sources */,
 				DAC9089F20CAD6C300B2E3E8 /* ViewController.swift in Sources */,
 				DAC9089D20CAD6C300B2E3E8 /* AppDelegate.swift in Sources */,
 			);
